@@ -1,5 +1,5 @@
 # AlphabetMagic
-Some Magic Alphabets crreated by me while messing arround with AI
+Some Magic Alphabets by Pablo Impallari in the Art Direction departament, using AI in the excection departament :)
 
 ![Alphabet Magic 00009](https://github.com/impallari/AlphabetMagic/blob/main/00009_Impallari_Alphabet_Magic.png?raw=true)
 
