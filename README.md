@@ -50,7 +50,7 @@ Same goal as experiment 2, but for serif alphabets.
 
 ![](https://github.com/impallari/AlphabetMagic/blob/main/Experiment%20003%20-%20Legible%20Serifs/00007-3821800125-alphabetMagic.png?raw=true)
 
-![](https://github.com/impallari/AlphabetMagic/blob/main/Experiment%20002%20-%20Legible%20Sans/00026-808898671-alphabetMagicB.png?raw=true)
+![](https://github.com/impallari/AlphabetMagic/blob/main/Experiment%20003%20-%20Legible%20Serifs/00026-808898671-alphabetMagicB.png?raw=true)
 
 ### Experiment 4
 
