@@ -15,7 +15,7 @@ The aim of the experiments is to put into practice what was previously only theo
 
 The methodology consists of defining a specific objective in each experiment, so that we can evaluate it as objectively as possible and provide feedback for the next experiment.
 
-Here we keep trank of the experiments and we host the resultsing alphabets
+Here we keep track of the experiments and we host the resultsing alphabets
 
 ### Experiment 1
 The objective of this particular experiment is to generate exiting, cool, flamboyant and exotic alphabets.
