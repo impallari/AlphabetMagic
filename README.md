@@ -66,7 +66,18 @@ By the way... you may have noticed that some glyphs got drunk? isn't it? Dont wo
 ### Experiment 4
 What if we have a very expresivve alphabet and we want to tone it down?
 Can we restraine a design without losing its essence? Let's try!
-Our goal for this experiment is: "Make it Boring!"
+Our goal for this experiment is: "Make Me Boring!"
 
-.. results are inside the experiment folder, go check them out. I will show them here tomorrow morning. See you!
+Lets start with the typeface called Chantelli Antiqua.
+Its a nice callygraphic design, quite expressive.
+![](https://github.com/impallari/AlphabetMagic/blob/main/Experiment%20004%20-%20Make%20Me%20Boring/Chantelli%20Antiqua/Chantelli_Antiqua.jpg?raw=true)
+Lets Make it Boring!
+![](https://github.com/impallari/AlphabetMagic/blob/main/Experiment%20004%20-%20Make%20Me%20Boring/Chantelli%20Antiqua/00038-2541018201-alphabetMagic.png?raw=true)
+
+This time the font will be Great Victorian, full of decoration.
+![](https://github.com/impallari/AlphabetMagic/blob/main/Experiment%20004%20-%20Make%20Me%20Boring/Great%20Victorian/GreatVictorian.jpg?raw=true)
+Let make it boring!
+![](https://github.com/impallari/AlphabetMagic/blob/main/Experiment%20004%20-%20Make%20Me%20Boring/Great%20Victorian/00048-641452965-alphabetMagicB.png?raw=true)
+
+
 
