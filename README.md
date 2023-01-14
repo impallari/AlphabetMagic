@@ -2,7 +2,7 @@
 
 The "AlphabetsMagic" proyect is a series of experiments to explore and conquer the new multiverse of Typographic Artificial Intelligence led by Pablo Impallari and open to the participation of those who wish to collaborate.
 
-My first econter with AI applied to Typeface Design was at the Atypi 2016 coonferece in Warsaw.
+My first econter with AI applied to Typeface Design was at the Atypi 2016 conferece in Warsaw.
 There I learned from the Morisawa guys that a Japanese typefaces sometimes has more that 26.000 letters, and as you can imagine, making a Japanese typeface is a massive, huge amont of work. So they experimented with a Deep Learning Netwrok to assist them, and explaimed the main aspects of it.
 My mind was blown away! I wanted to do the same for Latin! But at that time it was impossible for me.
 Now in 2023 (7 years later) its finally possible. So I can't wait to start experimenting with it.
