@@ -1,15 +1,16 @@
 # AlphabetMagic
 
-The "AlphabetsMagic" proyect is a serie of experiments to explore and conquer the new multiverse of Typographic Artificial Intelligence led by Pablo Impallari and open to the participation of those who wish to collaborate.
+The "AlphabetsMagic" proyect is a series of experiments to explore and conquer the new multiverse of Typographic Artificial Intelligence led by Pablo Impallari and open to the participation of those who wish to collaborate.
 
-My first econter with AI applied to Typeface Design was in 2016, in Warsaw, at the Atypi Coonferece.
-There I learned from the Morisawa gys that a Japanese yypefaces sometimes has more that 26.000 letters, and as you can imagine, making a Japanese typeface is a massive, huge amont of work. So they trained a Deep Learning Netwrok to assist them, and explaimed the main aspects in their presentation. Here is a link to the [Morisawa talk](https://www.youtube.com/watch?v=y3qXMW0SRK4&list=PL0oMAzSh5W9rPHqj3qIBS8UXVKJ9MWuh2&index=21) iy you want to see it too.
-
-My mind was blown away! I wanted to do the same for Latin typefaces! But at that time it was impossible for me.
+My first econter with AI applied to Typeface Design was at the Atypi 2016 coonferece in Warsaw.
+There I learned from the Morisawa guys that a Japanese yypefaces sometimes has more that 26.000 letters, and as you can imagine, making a Japanese typeface is a massive, huge amont of work. So they experimented with a Deep Learning Netwrok to assist them, and explaimed the main aspects of it.
+My mind was blown away! I wanted to do the same for Latin! But at that time it was impossible for me.
 Now in 2023 (7 years later) its finally possible. So I can't wait to start experimenting with it.
 
+Here is a link to their presentation, [ Deep Neural Network in Typeface](https://www.youtube.com/watch?v=y3qXMW0SRK4&list=PL0oMAzSh5W9rPHqj3qIBS8UXVKJ9MWuh2&index=21) if you want to learn too.
 
-## The Experiments:
+
+## The AlphabetsMagic Experiments:
 The aim of the experiments is to put into practice what was previously only theory or speculation. The process of experimentation allows us to assess what is possible to do today and define the way forward. It presents us with challenges and motivates us to overcome them. In this way we can improve our skills and gradually overcome more complex objectives.
 
 The methodology consists of defining a specific objective in each experiment, so that we can evaluate it as objectively as possible and provide feedback for the next experiment.
