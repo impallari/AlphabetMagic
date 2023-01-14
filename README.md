@@ -7,6 +7,8 @@ The aim of the experiments is to put into practice what was previously only theo
 
 The methodology consists of defining a specific objective in each experiment, so that we can evaluate it as objectively as possible and provide feedback for the next experiment.
 
+Here we keep trank of the experiments and we host the resultsing alphabets
+
 ### Experiment 1
 The objective of this particular experiment is to generate exiting, cool, flamboyant and exotic alphabets.
 We want to test if we can generate creative, eye catching and excentric lettershapes while maintaining consistency with the entire alphabet.
@@ -28,8 +30,20 @@ Here are a few results. There are many more alphabets inside the Experiment fold
 
 ![Alphabet Magic 00007](https://github.com/impallari/AlphabetMagic/blob/main/00007_Impallari_Alphabet_Magic.png?raw=true)
 
+
 ### Experiment 2
+Jasper the Waard suggested that "I'd be interested to see more 'boring' fonts!", so here we are.
+This time we will do the opposite of experiment 1, We will try to generatde some standard lookiing Sans and Serif alphabets, the more boring the better. we now want restrained and legible alphabets.
+
+This time instead of presenting the typical A-Z a-z 1-9 lettering sheet, I wanted to present something lika a mini-specimen image, so we can see how the alphabet performs when sed in Sentencecase and in all uppercase. Easier to evaluate than in the lettering sheet style presentation.
+
+Experiment 2 is for Sans. I will show here 2 alphabets. there are 30 or so inside the experiment folder. Download it and browse freely
+
+
+
+
 ### Experiment 3
+
 ### Experiment 4
 
 More to come.. stay tunned
