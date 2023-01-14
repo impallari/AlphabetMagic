@@ -79,5 +79,21 @@ This time the font will be Great Victorian, full of decoration.
 Let make it boring!
 ![](https://github.com/impallari/AlphabetMagic/blob/main/Experiment%20004%20-%20Make%20Me%20Boring/Great%20Victorian/00048-641452965-alphabetMagicB.png?raw=true)
 
+Now its Jester turn, a casual brsh serif.
+![](https://github.com/impallari/AlphabetMagic/blob/main/Experiment%20004%20-%20Make%20Me%20Boring/Jesteer/Jester.jpg?raw=true)
+Let make it boring!
+![](https://github.com/impallari/AlphabetMagic/blob/main/Experiment%20004%20-%20Make%20Me%20Boring/Jesteer/00054-3940823062-alphabetMagic.png?raw=true)
+
+Lets try Spedball, just becase I love this font so much!
+![](https://github.com/impallari/AlphabetMagic/blob/main/Experiment%20004%20-%20Make%20Me%20Boring/Speedball/speedball.jpg?raw=true)
+Let make it boring!
+![](https://github.com/impallari/AlphabetMagic/blob/main/Experiment%20004%20-%20Make%20Me%20Boring/Speedball/00069-501794999-alphabetMagicB.png?raw=true)
+
+### Experiment 5
+We dont yet. What would you suggest?
+
+Cheers!
+Pablo Impallari
+
 
 
