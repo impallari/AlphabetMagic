@@ -3,11 +3,10 @@
 The "AlphabetsMagic" proyect is a serie of experiments to explore and conquer the new multiverse of Typographic Artificial Intelligence led by Pablo Impallari and open to the participation of those who wish to collaborate.
 
 My first econter with AI applied to Typeface Design was in 2016, in Warsaw, at the Atypi Coonferece.
-There I learned that Japanese Typefaces sometimes has more that 26.000 letters. We have 26 letters on the Latin Alphabet. So its a tremendous difference. You can imagine that making a Japanese typefaceits a huge massive amont of work.
-So they sarted training a Deep Learning Netwrok to assis them in their work, and explaimed that main aspect of it in a presentation. Here is a link to the Youtbe recording of [the presentation](https://www.youtube.com/watch?v=y3qXMW0SRK4&list=PL0oMAzSh5W9rPHqj3qIBS8UXVKJ9MWuh2&index=21) iy you want to see it.
+There I learned from the Morisawa gys that a Japanese yypefaces sometimes has more that 26.000 letters, and as you can imagine, making a Japanese typeface is a massive, huge amont of work. So they trained a Deep Learning Netwrok to assist them, and explaimed the main aspects in their presentation. Here is a link to the [Morisawa talk](https://www.youtube.com/watch?v=y3qXMW0SRK4&list=PL0oMAzSh5W9rPHqj3qIBS8UXVKJ9MWuh2&index=21) iy you want to see it too.
 
-My mind was blown away! I wanted to do the same for Latin typeface design too! But at that time it was impossible for me.
-Now in 2023, 7 years later, its finally possible. So I can't wait to start experimenting with it.
+My mind was blown away! I wanted to do the same for Latin typefaces! But at that time it was impossible for me.
+Now in 2023 (7 years later) its finally possible. So I can't wait to start experimenting with it.
 
 
 ## The Experiments:
