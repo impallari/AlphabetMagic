@@ -52,6 +52,13 @@ Same goal as experiment 2, but for serif alphabets.
 
 ![](https://github.com/impallari/AlphabetMagic/blob/main/Experiment%20003%20-%20Legible%20Serifs/00026-808898671-alphabetMagicB.png?raw=true)
 
-### Experiment 4
+Ok.. so far, so good!
+By the way... you may have noticed that some glyphs got drunk? isn't it? Dont worry about it, its not relevant at this stage.
 
-More to come.. stay tunned
+### Experiment 4
+What if we have a very expresivve alphabet and we want to tone it down?
+Can we restraine a design without losing its essence? Let's try!
+Our goal for this experiment is: "Make it Boring!"
+
+.. results are inside the experiment folder, go check them out. I will show them here tomorrow morning. See you!
+
