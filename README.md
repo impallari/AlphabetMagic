@@ -45,6 +45,12 @@ Experiment 2 is for Sans. I will show here 2 alphabets. there are 30 or so insid
 
 
 ### Experiment 3
+Same goal as experiment 2, but for serif alphabets.
+19 serif alphabets in the experiment folder.
+
+![](https://github.com/impallari/AlphabetMagic/blob/main/Experiment%20003%20-%20Legible%20Serifs/00007-3821800125-alphabetMagic.png?raw=true)
+
+![](https://github.com/impallari/AlphabetMagic/blob/main/Experiment%20002%20-%20Legible%20Sans/00026-808898671-alphabetMagicB.png?raw=true)
 
 ### Experiment 4
 
