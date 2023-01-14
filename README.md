@@ -92,6 +92,8 @@ Let make it boring!
 
 ### Experiment 5
 We dont have one yet. What would you suggest?
+
+
 Join the conversation at the [TypeDrawers forum](https://typedrawers.com/discussion/4665/alphabetmagic-my-first-ai-experiment) or [fill a New Isse](https://github.com/impallari/AlphabetMagic/issues)
 
 Cheers!
