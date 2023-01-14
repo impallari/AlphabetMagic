@@ -79,7 +79,7 @@ This time the font will be Great Victorian, full of decoration.
 Let make it boring!
 ![](https://github.com/impallari/AlphabetMagic/blob/main/Experiment%20004%20-%20Make%20Me%20Boring/Great%20Victorian/00048-641452965-alphabetMagicB.png?raw=true)
 
-Now its Jester turn, a casual brsh serif.
+Now its Jester turn, a casual brsh serif. Lets Try it!
 ![](https://github.com/impallari/AlphabetMagic/blob/main/Experiment%20004%20-%20Make%20Me%20Boring/Jesteer/Jester.jpg?raw=true)
 Let make it boring!
 ![](https://github.com/impallari/AlphabetMagic/blob/main/Experiment%20004%20-%20Make%20Me%20Boring/Jesteer/00054-3940823062-alphabetMagic.png?raw=true)
