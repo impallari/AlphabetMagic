@@ -91,7 +91,7 @@ Let make it boring!
 ![](https://github.com/impallari/AlphabetMagic/blob/main/Experiment%20004%20-%20Make%20Me%20Boring/Speedball/00069-501794999-alphabetMagicB.png?raw=true)
 
 ### Experiment 5 to 13 and more...
-I have stopped updating this, and I'am posting all the new experiment at the [TypeDrawers forum](https://typedrawers.com/discussion/4665/alphabetmagic-my-first-ai-experiment). See you there!
+I have stopped updating this readme.md file, now I'am posting and discussing all the new experiment at the [TypeDrawers forum](https://typedrawers.com/discussion/4665/alphabetmagic-my-first-ai-experiment). See you there!
 
 Cheers!
 Pablo Impallari
