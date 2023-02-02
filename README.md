@@ -90,14 +90,9 @@ Lets try Spedball, just becase I love this font so much!
 Let make it boring!
 ![](https://github.com/impallari/AlphabetMagic/blob/main/Experiment%20004%20-%20Make%20Me%20Boring/Speedball/00069-501794999-alphabetMagicB.png?raw=true)
 
-### Experiment 5
-We dont have one yet. What would you suggest?
-
-
-Join the conversation at the [TypeDrawers forum](https://typedrawers.com/discussion/4665/alphabetmagic-my-first-ai-experiment) or [fill a New Isse](https://github.com/impallari/AlphabetMagic/issues)
+### Experiment 5 to 13 and more...
+I have stopped updating this, and I'am posting all the new experiment at the [TypeDrawers forum](https://typedrawers.com/discussion/4665/alphabetmagic-my-first-ai-experiment). See you there!
 
 Cheers!
 Pablo Impallari
-
-
 
